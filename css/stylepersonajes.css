@@ -1,0 +1,47 @@
+body {
+    background-color: #42b4ca;
+}
+.navbar {
+    background-color: #25494a;
+}
+
+.titulo {
+    color: white;
+    font-weight: 700;
+}
+.letra {
+    font-size: x-large;
+    font-weight: 700;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.img-fluid {
+
+    height: 370px;
+
+}
+.card {
+    
+    box-shadow: 0 0 10px #bfde42;
+    height: 370px;
+    /* margin-left: 100px; */
+}
+.col-md-4 {
+    box-shadow: 0 0 10px #bfde42;
+
+}
+
+.btn {
+    margin-top: 5px;
+    box-shadow: 0 0 10px #bfde42;
+    background-color: #25494a;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
